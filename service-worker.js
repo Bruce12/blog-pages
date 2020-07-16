@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.5d24649b0ada1de70f5ef774234087be.js"
+  "precache-manifest.0afba014103b807b56e9dd344f08bc76.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-music-player"});
